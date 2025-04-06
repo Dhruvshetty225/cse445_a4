@@ -15,7 +15,7 @@
   <Hotel Rating="4.5">
     <Name>Marriott Scottsdale</Name>
     <Phone>480-123-4567</Phone>
-    <Address NearstAirport="Phoenix Sky Harbor">
+    <Address>
       <Number>100</Number>
       <Street>Main St</Street>
       <City>Scottsdale</City>
@@ -50,7 +50,7 @@
     <Name>Renaissance Scottsdale Resort</Name>
     <Phone>480-456-7890</Phone>
     <Phone>480-654-3210</Phone>
-    <Address NearstAirport="Phoenix Sky Harbor">
+    <Address>
       <Number>400</Number>
       <Street>Desert Rd</Street>
       <City>Scottsdale</City>
@@ -73,7 +73,7 @@
     <Name>DoubleTree by Hilton</Name>
     <Phone>480-678-9012</Phone>
     <Phone>480-987-6543</Phone>
-    <Address NearstAirport="Phoenix Sky Harbor">
+    <Address>
       <Number>600</Number>
       <Street>College Ave</Street>
       <City>Phoenix</City>
@@ -96,7 +96,7 @@
     <Name>Omni Scottsdale Resort</Name>
     <Phone>480-890-1234</Phone>
     <Phone>480-321-0987</Phone>
-    <Address NearstAirport="Phoenix Sky Harbor">
+    <Address>
       <Number>800</Number>
       <Street>Desert Sky Blvd</Street>
       <City>Scottsdale</City>
