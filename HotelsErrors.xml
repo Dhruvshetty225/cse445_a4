@@ -5,7 +5,7 @@
         <Name>Westin Tempe</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E 7th St</Street>
             <City>Tempe</City>
@@ -17,7 +17,7 @@
     <Hotel Rating="4.5">
         <Name>Marriott Scottsdale</Name>
         <!-- Phone element intentionally omitted -->
-        <Address>
+        <Address NearstAirport="Phoenix Sky Harbor">
             <Number>100</Number>
             <Street>Main St</Street>
             <City>Scottsdale</City>
@@ -30,20 +30,20 @@
         <Name>Hilton Phoenix</Name>
         <Phone>602-234-5678</Phone>
         <Phone>602-876-5432</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor">
+        <Address NearstAirport="Phoenix Sky Harbor">
             <Number>200</Number>
             <Street>Grand Ave</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
-        <!-- Missing </Address> tag here -->
+        <!-- Missing </Address> tag -->
     </Hotel>
     <!-- Hotel 4: Two Name elements provided -->
     <Hotel Rating="4.0">
         <Name>Hyatt Regency</Name>
         <Name>Extra Name</Name> <!-- Error: Duplicate Name element -->
         <Phone>480-345-6789</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor">
+        <Address NearstAirport="Phoenix Sky Harbor">
             <Number>300</Number>
             <Street>Central Ave</Street>
             <City>Phoenix</City>
@@ -51,12 +51,12 @@
             <Zip>85006</Zip>
         </Address>
     </Hotel>
-    <!-- Hotel 5: A valid hotel entry (included for completeness) -->
+    <!-- Hotel 5: A valid hotel entry (for completeness) -->
     <Hotel Rating="4.7">
         <Name>Renaissance Scottsdale Resort</Name>
         <Phone>480-456-7890</Phone>
         <Phone>480-654-3210</Phone>
-        <Address>
+        <Address NearstAirport="Phoenix Sky Harbor">
             <Number>400</Number>
             <Street>Desert Rd</Street>
             <City>Scottsdale</City>
