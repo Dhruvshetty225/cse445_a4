@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
   <Hotel Rating="4.2">
-    <Name>Westin Tempe</Name>
-    <Phone>480-968-8885</Phone>
+    <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Phone>480-968-8885</Phone>
+    <Address NearstAirport="Sky HarborWestin">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -15,7 +15,7 @@
   <Hotel Rating="4.5">
     <Name>Marriott Scottsdale</Name>
     <Phone>480-123-4567</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>100</Number>
       <Street>Main St</Street>
       <City>Scottsdale</City>
@@ -50,7 +50,7 @@
     <Name>Renaissance Scottsdale Resort</Name>
     <Phone>480-456-7890</Phone>
     <Phone>480-654-3210</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>400</Number>
       <Street>Desert Rd</Street>
       <City>Scottsdale</City>
@@ -73,7 +73,7 @@
     <Name>DoubleTree by Hilton</Name>
     <Phone>480-678-9012</Phone>
     <Phone>480-987-6543</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>600</Number>
       <Street>College Ave</Street>
       <City>Phoenix</City>
@@ -96,7 +96,7 @@
     <Name>Omni Scottsdale Resort</Name>
     <Phone>480-890-1234</Phone>
     <Phone>480-321-0987</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>800</Number>
       <Street>Desert Sky Blvd</Street>
       <City>Scottsdale</City>
