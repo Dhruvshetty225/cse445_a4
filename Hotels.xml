@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Marriott</Name>
+    <Phone>602-555-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>100</Number>
+      <Street>Main St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Holiday Inn</Name>
+    <Phone>480-555-5678</Phone>
+    <Phone>480-555-8765</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>200</Number>
+      <Street>Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85005</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hyatt Regency</Name>
+    <Phone>480-555-1122</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>300</Number>
+      <Street>Market St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85260</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Renaissance</Name>
+    <Phone>480-555-3344</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>400</Number>
+      <Street>First Ave</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85301</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Embassy Suites</Name>
+    <Phone>480-555-5566</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>500</Number>
+      <Street>Second St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Best Western</Name>
+    <Phone>480-555-7788</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>600</Number>
+      <Street>Third Blvd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85006</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Comfort Inn</Name>
+    <Phone>480-555-9900</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>700</Number>
+      <Street>Fourth Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>DoubleTree</Name>
+    <Phone>480-555-2233</Phone>
+    <Phone>480-555-3322</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>800</Number>
+      <Street>Fifth Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85007</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>480-555-4455</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>900</Number>
+      <Street>Sixth St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
